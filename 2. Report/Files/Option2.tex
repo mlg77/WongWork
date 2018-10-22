@@ -1,0 +1,47 @@
+\section{Option B} \label{Sect.B}
+
+\noindent Option B approximates the cell wall as a very thin gel-like fluid in order to consider its physiological properties on the structural deformation of a spherical \ac{rbc}.  The gel approximation allows a similar surface stability equation as \cite{Prosperetti1974,Zeng2018} in Section \ref{Sect.SE}. This assumption stems from the Fluid Mosaic Model which describes generic cell membranes as a fluid or gel-like structure at different temperatures \cite{Nicolson2014,Deraitus2001}. However, although the definition describes the membrane as a fluid, fluid like properties such as viscosity (often refereed to as membrane fluidity) are difficult to obtain and thus are often approximated as effective viscosities. 
+
+
+For this approximation the surface stability equation is described for the membrane to blood plasma interface and the inner interface is found using the same volume conservation, adiabatic surface assumption and unsteady Bernoulli equations found in Section \ref{Sect.SE.Bub}: \textit{Relationship to Internal Bubble}. For this option the subscript `w' will be used to represent the membrane. For the purpose of readability Table \ref{table.plasmas2} describes the blood plasma and cell wall approximated properties.
+\\
+
+
+\begin{table} [H]
+	\begin{center}
+		\caption{ Summary of main similarities between cytoplasm and the blood plasma properties. \ }
+		\label{table.plasmas2}
+		\begin{tabularx} {0.8\textwidth}{L{4cm} L{1.5cm} |  C{3cm} C{3cm}  }
+			\hline
+			\textbf{Property (Symbol)} & \textbf{Units}  & \textbf{Blood Plasma} & \textbf{Wall}\\
+			\hline
+			Viscosity ($\upmu$) & mPa$\cdot$s  & $1.2$ \cite{Kesmarky2008} & 0.128 \cite{Chang2017,Tran-Son-Tay1984} \\
+			Density ($\rho$) & kgm$^{-3}$  & $1025$  \cite{bloodfact2004} & 1040 \cite{Schumacher2009} \\
+			
+			
+			\hline			
+		\end{tabularx}
+	\end{center}
+\end{table}
+
+\noindent Looking at the properties in Table \ref{table.plasmas2}, again, the densities are comparable (only 1.5\% difference) but the viscosities are not. This leads to the same resulting amplitude of perturbation equation as described by Equation \ref{eq.opta.adotdot} with Equations \ref{eq.opta.An} and \ref{eq.opta.Bn}. However, for this scenario, additionally the internal bubble dynamics (Section \ref{Sect.SE.Bub}) are needed.
+
+ For Equation \ref{eq.bub.Pb} the initial pressure of the bubble is assumed to be isotonic ie. $P_{b0} = P_{\infty}$. For Equation \ref{eq.bub.Rb} when the parameters that have no subscript refer to the cell wall. The pressure of the blood plasma can be chosen within the range of typical blood pressures $P_{\infty} \in [8,18]$ kPa and  the effective coefficient of surface tension, is a piecewise function (Equation \ref{eq.opt2.sigma}) depending on the radius from \citet{Dollet2019}.
+ 
+\begin{equation} \label{eq.opt2.sigma}
+\gamma = \begin{cases} 
+0 & R \leq R_{Buckling} \\
+\gamma(R_0) + \frac{d \gamma}{d \ln A}  \left( \frac{R^2}{R_0^2} - 1 \right) & R_{Buckling}\leq R \leq R_{Rupture} \\
+\gamma_{Water} & R \geq R_{Rupture} 
+\end{cases}
+\end{equation}
+
+\noindent where the initial surface tension is approximated as $\gamma(R_0) \in [5,10] \times 10^{-7}$ Jm$^{-2}$ (also equal to N/m) \cite{Safran2005}, $A$ is the \ac{rbc} surface area, $R_{Buckeling}$ is assumed to not occur and $R_{Rupture}$ is a dependent upon the pressure in Section \ref{Sect.CellRupture}.
+
+The potential difficulties with this option is two fold, first, the cell wall rupture (Section \ref{Sect.CellRupture}) and second, the thickness of the cell wall. Until simulations have been complete it is difficult to understand the possible effects the thin cell wall will have on the outcome. To speculate, it is expected that the simulation tolerances need careful consideration in addition to appropriate time step and position mapping needing a higher level of detail for accuracy. 
+
+\subsection{Cell Wall Rupture} \label{Sect.CellRupture}
+\noindent Due to the addition of the cell wall dynamics it is important to consider the cell wall rupture. Should the cell wall rupture the dynamics described above become null and void and thus, Option A (Section \ref{Sect.A}) dynamics take over. 
+
+The threshold shear stress, above which extensive cell damage which is directly due to shear stress, is $1500$ dynes/cm$^2$ ($0.015$ N/cm$^2$ = $150$ Pa) \cite{Leverett1972}. Therefore, should the pressure on the cell exceed 150 Pa, the cell wall will exhibit extensive damage and rupture. Since this reading is above standard internal pressure it is deduced that for \ac{rbc} rupture the change in pressure across the cell wall must be greater than 150 Pa, ie $|P_b - P_{\infty}  | \geq 150 $ Pa. Note, it is assumed that initially the pressure gradient is isotonic, meaning the osmotic pressure outside the red blood cells is the same as the pressure inside the cells.
+

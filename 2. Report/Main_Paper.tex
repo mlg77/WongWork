@@ -1,0 +1,104 @@
+\documentclass[12pt, paper=a4]{elsarticle}
+
+\makeatletter
+\def\ps@pprintTitle{%
+	\let\@oddhead\@empty
+	\let\@evenhead\@empty
+	\def\@oddfoot{\centerline{\thepage}}%
+	\let\@evenfoot\@oddfoot}
+\makeatother
+
+\usepackage{amsmath,xcolor,todonotes,graphicx,marvosym,dsfont,import,fullpage,textcomp,colortbl,array,pgfplots,lscape}
+\usepackage{caption}
+\definecolor{grey}{gray}{0.5}
+\definecolor{lightgrey}{gray}{0.8}
+\usepackage{amsmath}
+\usepackage[colorlinks=true, linkcolor=black, citecolor=black, urlcolor=black]{hyperref} 
+%\usepackage[authoryear]{natbib}
+\usepackage{siunitx}
+\usepackage{float}
+%\numberwithin{equation}{section}
+%\numberwithin{figure}{section}
+%\numberwithin{table}{section}
+\graphicspath{ {Figures/} }
+\usepackage{tabularx} 
+\usepackage{lscape}
+\usepackage{pdfpages}
+\usepackage[titletoc,toc,title]{appendix}
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+\graphicspath{ {fig/} }
+\bibliographystyle{apalike} 
+\input{myshorts.tex}
+\usepackage{acronym}
+\usepackage{cleveref}
+\newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
+\usepackage{chemformula}
+\usepackage{subcaption}
+\usepackage{ upgreek }
+\definecolor{mygreen}{RGB}{0, 128, 0}
+
+%\linespread{2}
+
+\usepackage{tabularx} 
+\usepackage{ amssymb }
+\usepackage{mathtools}
+\usepackage{color}
+\usepackage{xspace}
+\usepackage{bm}
+
+\usepackage{titlesec}
+\titleformat{\section}
+{\normalfont\bfseries}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+	{\normalfont\scshape\bfseries}{\thesubsection}{1em}{}
+	
+\setcounter{secnumdepth}{2}
+\titleformat{\subsubsection}
+	{\normalfont\scshape\bfseries\itshape}{\thesubsubsection}{1em}{}
+
+
+\begin{document}
+	\input{myacc.tex}
+
+	
+	\begin{frontmatter}
+		\title{{Modification of Surface Stability Equation to Suit Red Blood Cells (RBC) with \acf{hs} } }
+		
+		\author{\underline{Michelle Goodman}\footnote[1]{University of Canterbury, Tsinghua University Exchange, \href{mailto:michelle.goodman@canterbury.ac.nz}{michelle.goodman@canterbury.ac.nz}}$~$, 
+			Steve Xiangthu\footnote[2]{Tsinghua University}$~$, 
+			Bing Wang\footnotemark[2]$~$,}
+		
+			
+		\begin{abstract}
+			\input{Files/Abstract}
+		\end{abstract}
+		
+		\begin{keyword}
+			RBC \sep Hereditary spherocytosis \sep Surface stability \sep Amplitude of perturbation 
+			
+		\end{keyword}
+	\end{frontmatter}
+	
+	%\input{Files/Introduction}	
+	\input{Files/RBC}
+	\input{Files/StabilityEquation}
+	\input{Files/RBCApplication}
+	\input{Files/Option1}
+	\input{Files/Option2}
+	\input{Files/Option3}
+	%\input{Files/Validation}
+	\input{Files/Conclusion}
+	
+	%\appendix% I am not sure where I should invoke \appendix
+	%\begin{appendices}
+	%	\input{Files/Placeholder}
+	%\end{appendices}
+	
+	
+	\bibliography{library} 
+\end{document}
+

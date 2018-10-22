@@ -1,0 +1,37 @@
+\section{Option C}
+
+\noindent Finally, the third option (Figure \ref{fig.rbc.approx}c) is arguably the most physiological of the three cases, opting to keep the solid cell wall. Unlike the first two options, here a different approach is necessary to switch from surface tension to elastic mechanical deformation. Again, similar to option B, option C must assume the \ac{rbc} wall does not rupture (Section \ref{Sect.CellRupture}).
+
+There exist multiple different mathematical approaches to this option. \citet{Mansoorbaghaei2011}, for example, look at a 3-dimensional model of a shell under an external impact. This type of approach is both computationally expensive and prone to numerical inconsistencies when applied to the thin wall of the cell. Instead, a thin wall approached was chosen. 
+
+The \ac{dmv} \cite{Hutchinson2016} thin shell theory was chosen as a base for this option. Van der Neut 1932 Dutch PhD thesis was the first to show the rigorous demonstration for the buckling sphere under uniform pressure. His work was based upon the Kirchhoff–Love theory of plates as a two-dimensional mathematical model that is used to determine the stresses and deformations in thin plates subjected to forces and moments. This theory is an extension of Euler-Bernoulli beam theory and was developed in 1888 by Love using assumptions proposed by Kirchhoff. The theory assumes that a mid-surface plane can be used to represent a three-dimensional plate in two-dimensional form.
+
+For this approach four approximations are needed \cite{Chang1994}. First, the uniform thickness of the elastic shell, $\ell$, must be significantly smaller than its radius, ie $\ell/R << 1$. Second, the deformations must be small compared to the radius. Third, the radial stress $\sigma_R$ must be negligible and finally, the fibres in the radial direction need to remain non-permanently-deformed during the motion. Note, \citet{Chang1994} and \citet{Anand2016} (and to a lesser extent \cite{Kraus} and  \cite{Turcotte1981}) used the Kirchhoff-Love thin shell theory with although derived from the same original source contains slight modifications in the approximations, assumptions and boundary conditions used. 
+
+The \ac{dmv} theory (succinctly described by \cite{Hutchinson2016} and including the time dependent component of \cite{Vassilev1997}) describes first the equi-biaxial (equal on both axis's) stress ($\sigma$) as a function of the uniform pressure difference ($P$), radius ($R$) and shell wall thickness
+($\ell$) is described by Equation \ref{eq.opt3.sigma}.
+\begin{equation} \label{eq.opt3.sigma}
+\sigma = \frac{1}{2} P \frac{R}{\ell}
+\end{equation}
+\noindent Deviation from this uniform state in the form $R(t) = R_0 + a(t)Y_{n}$, or otherwise, $a$ is known as the axial displacement amplitude of perturbation and $Y_{n}$ is the spherical harmonic. The well known Airy stress function $\Delta F$ is used to satisfy the in plane equilibrium along with the additional compatibility condition.  The perturbation process leads to a pair of coupled partial differential equations from \ac{dmv} theory governing the buckling (Equation \ref{eq.opt3.w} and \ref{eq.opt3.F}).
+\begin{equation} \label{eq.opt3.w}
+D \triangledown^4 a + \frac{1}{R} \triangledown^2 \Delta F + \sigma \ell \triangledown^2 a = 0
+\end{equation}
+\begin{equation} \label{eq.opt3.F}
+\frac{1}{E\ell} \triangledown^4 \Delta F - \frac{1}{R} \triangledown^2 a -\frac{\rho R}{E\ell} \ddot{a} = 0
+\end{equation}
+\noindent where
+\begin{equation} \label{eq.opt3.D}
+D = \frac{E\ell^3}{12(1-v^2)}
+\end{equation}
+\noindent and for spherical coordinates the Laplacian operator $\triangledown^2$ is defined by Equation \ref{eq.opt3.del} with $\triangledown^4 = \triangledown^2(\triangledown^2)$.
+\begin{equation} \label{eq.opt3.del}
+\triangledown^2f  \equiv \frac{1}{r}\frac{\partial^2}{\partial r^2} (rf) + \frac{1}{r^2 \sin \theta} \frac{\partial}{\partial \theta}\left( \sin \theta \frac{\partial f}{\partial \theta} \right) + \frac{1}{r^2\sin \theta} \frac{\partial^2}{\partial \psi^2}f
+\end{equation}
+\noindent Eliminating $\Delta F$ from Equations \ref{eq.opt3.w} and \ref{eq.opt3.F} gives Equation \ref{eq.opt3.a}
+\begin{equation} \label{eq.opt3.a}
+\rho \ddot{a} + \triangledown^2  \left( D \triangledown^4 a  + \sigma \ell \triangledown^2 a + \frac{E\ell}{R^2}a   \right) = 0
+\end{equation}
+\noindent Thus, in order to consider deformation mechanics,  Equation \ref{eq.opt3.a} is recommended to replace Equation \ref{eq.der.adotdot} from Section \ref{Sect.SE}. For comparison to Section \ref{Sect.A} the final amplitude of perturbation of the surface is $a = f(t, n, \rho, E, \ell, v, P, R)$.
+
+

@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="OptionsRBCmodel.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker14708"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path14710" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker11705"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path11707"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11152"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path11154" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker7088"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7090"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6961"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path6963" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DiamondM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5583"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5565"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4672"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4674"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-8"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5319-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5319"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5565-1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5565-8"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-78"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5565-0"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondM-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5583-1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-7-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5565-8-9"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-0-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5565-1-7"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5565-6"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4672-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4674-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7088-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7090-3"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-5-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-5-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7088-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7090-4"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6961-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path6963-8" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7088-7-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7090-3-1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-5-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-5-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-5-0-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-5-9-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7088-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7090-6"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6961-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path6963-7" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7088-7-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7090-3-13"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-5-45"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-5-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-5-0-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-5-9-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondM-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5583-4"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11152-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 Z"
+         id="path11154-8" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7088-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7090-30"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6961-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path6963-77" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7088-7-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7090-3-7"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-5-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-5-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8204-5-0-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8206-5-9-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker14708-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 Z"
+         id="path14710-4" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="-161.04511"
+     inkscape:cy="558.87177"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9971"
+       transform="translate(0,-0.10153198)"
+       inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\Actual.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <rect
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         ry="18.629396"
+         y="-372.45041"
+         x="-334.30139"
+         height="364.11401"
+         width="543.58679"
+         id="rect6856-5-6-3"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.16602421;stroke-miterlimit:4;stroke-dasharray:4.16602439, 8.33204879;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         r="150"
+         cy="-182.28072"
+         cx="-140.00003"
+         id="path5273-3-9"
+         style="opacity:0.98999999;fill:#00b2fe;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:connector-curvature="0"
+         id="path5283-3-0"
+         d="m -142.14049,-260.92394 c -10.40538,0.0475 -21.02006,2.68942 -30.48123,6.92508 -12.12904,5.49666 -22.57718,14.36927 -30.67887,24.87129 -8.33294,11.24416 -13.67097,25.00582 -15.0149,38.84196 -1.33113,12.97719 0.67112,26.46286 5.77382,38.49297 7.93137,19.12616 24.01252,34.84615 43.31818,42.53686 15.00282,6.13259 31.8882,7.17612 47.47542,3.48976 11.89191,-2.82937 23.342528,-8.64447 32.731428,-16.62234 7.17016,-6.32169 13.494449,-13.66509 18.037822,-22.1106 7.86856,-14.21061 11.076799,-31.06942 9.148841,-46.99621 -2.207439,-19.5987 -12.244616,-38.27272 -27.295233,-50.8889 -12.393448,-10.52525 -28.314818,-17.11449 -44.365108,-18.35119 -2.87994,-0.16454 -5.76592,-0.21171 -8.65017,-0.18868 z"
+         style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:connector-curvature="0"
+         id="path5283-1-0-0"
+         d="m -140.0381,-183.88283 c -0.2237,0.001 -0.4519,0.0578 -0.6553,0.14888 -0.2607,0.11816 -0.4853,0.3089 -0.6595,0.53467 -0.1791,0.24172 -0.2939,0.53756 -0.3228,0.835 -0.029,0.27898 0.014,0.56889 0.1241,0.8275 0.1705,0.41117 0.5163,0.74911 0.9313,0.91444 0.3225,0.13183 0.6855,0.15427 1.0206,0.075 0.2556,-0.0608 0.5018,-0.18583 0.7036,-0.35734 0.1541,-0.1359 0.2901,-0.29377 0.3878,-0.47532 0.1691,-0.30549 0.2381,-0.66792 0.1966,-1.0103 -0.047,-0.42132 -0.2632,-0.82277 -0.5867,-1.09398 -0.2665,-0.22627 -0.6087,-0.36792 -0.9538,-0.39451 -0.062,-0.004 -0.1239,-0.005 -0.1859,-0.004 z"
+         style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:connector-curvature="0"
+         id="path5300-3-6"
+         d="m -305.4041,-182.3845 330.823707,0.38439"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:connector-curvature="0"
+         id="path5302-0-2"
+         d="m -140.2759,-23.343099 0.5673,-317.698391"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-3-9"
+         d="m -139.8215,-182.1021 -44.29882,63.56398"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-8)" />
+      <text
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:linespacing="125%"
+         id="text5712-0-9"
+         y="-121.67146"
+         x="-165.19266"
+         style="font-style:normal;font-weight:normal;font-size:18.65577126px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-121.67146"
+           x="-165.19266"
+           id="tspan5714-7-2"
+           sodipodi:role="line">r<tspan
+   id="tspan5716-0-5"
+   style="font-size:12.12625027px;baseline-shift:sub">b</tspan></tspan></text>
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-9-7-9"
+         d="m -140.189,-182.17612 -134.18664,65.45784"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4672)" />
+      <text
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:linespacing="125%"
+         id="text5712-4-6-0"
+         y="-118.94801"
+         x="-236.42227"
+         style="font-style:normal;font-weight:normal;font-size:18.65577126px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-118.94801"
+           x="-236.42227"
+           id="tspan5714-9-3-4"
+           sodipodi:role="line">r<tspan
+   id="tspan6404-4-0"
+   style="font-size:64.99999762%;baseline-shift:sub">d</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6858-4-2"
+         y="-247.47118"
+         x="28.266611"
+         style="font-style:normal;font-weight:normal;font-size:22.74210358px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-247.47118"
+           x="28.266611"
+           id="tspan6860-9-4"
+           sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan13580">Water</tspan> (liquid)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6858-4-2-9"
+         y="-312.48926"
+         x="28.932783"
+         style="font-style:normal;font-weight:normal;font-size:27.9981823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.73749924px"
+           y="-312.48926"
+           x="28.932783"
+           id="tspan6860-9-4-8"
+           sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan13578">Air</tspan>   (gas)</tspan></text>
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-3-9-8"
+         d="m 20.347486,-250.77464 -46.441676,44.99256"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotM)" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-3-9-8-7"
+         d="M 19.37813,-317.70963 -97.777832,-206.2885"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotM-0)" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-3-9-8-6"
+         d="m 19.020988,-317.35248 -29.381122,-0.10026"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotM-7)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6858-4-2-94"
+         y="-79.992004"
+         x="15.017052"
+         style="font-style:normal;font-weight:normal;font-size:20.36436653px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6491"
+           y="-79.992004"
+           x="15.017052"
+           sodipodi:role="line">Stability equation</tspan><tspan
+           id="tspan6489"
+           y="-54.536545"
+           x="15.017052"
+           sodipodi:role="line">interface due to </tspan><tspan
+           id="tspan6683"
+           y="-29.081087"
+           x="15.017052"
+           sodipodi:role="line">surface tension</tspan></text>
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-3-9-8-0"
+         d="m 6.4879324,-87.409886 -39.0239784,9.751061"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DiamondM)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9917"
+         y="-336.59756"
+         x="-314.15744"
+         style="font-style:normal;font-weight:normal;font-size:25.02499962px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-336.59756"
+           x="-314.15744"
+           id="tspan9919"
+           sodipodi:role="line">a)</tspan></text>
+    </g>
+    <g
+       id="g9939"
+       inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\Actual.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <rect
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         ry="18.627188"
+         y="-372.53036"
+         x="241.08534"
+         height="364.07086"
+         width="554.97223"
+         id="rect6856-5-6-3-7"
+         style="opacity:1;fill:#fffee1;fill-opacity:1;stroke:#000000;stroke-width:4.20917749;stroke-miterlimit:4;stroke-dasharray:4.20917752, 8.41835504;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="150"
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         cy="-182.38225"
+         cx="421.36508"
+         id="path5273-3-9-3"
+         style="opacity:0.98999999;fill:#fe0006;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:connector-curvature="0"
+         id="path5283-3-0-3"
+         d="m 417.53338,-323.164 c -18.62701,0.085 -37.62869,4.81442 -54.56543,12.39681 -21.71259,9.83975 -40.41613,25.72289 -54.91923,44.52289 -14.91707,20.12853 -24.47284,44.76373 -26.87866,69.53224 -2.3829,23.23088 1.2014,47.37202 10.3359,68.9075 14.19821,34.238346 42.98559,62.379206 77.54527,76.146592 26.85702,10.978143 57.08409,12.846208 84.98728,6.247138 21.28808,-5.064947 41.7862,-15.474752 58.59357,-29.756184 12.83554,-11.316669 24.15685,-24.46232 32.29008,-39.580886 14.08577,-25.43887 19.82894,-55.61838 16.37764,-84.12943 -3.9516,-35.08426 -21.91947,-68.51322 -48.86207,-91.09785 -22.18591,-18.84159 -50.68727,-30.6372 -79.4194,-32.85106 -5.15548,-0.29454 -10.32176,-0.37898 -15.48495,-0.33776 z"
+         style="opacity:0.98999999;fill:#ffd3d3;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:connector-curvature="0"
+         id="path5283-1-0-0-7"
+         d="m 421.32703,-183.98437 c -0.2237,0.001 -0.4519,0.0578 -0.6553,0.14888 -0.2607,0.11816 -0.4853,0.3089 -0.6595,0.53467 -0.1791,0.24172 -0.2939,0.53756 -0.3228,0.835 -0.029,0.27898 0.014,0.56889 0.1241,0.8275 0.1705,0.41117 0.5163,0.74911 0.9313,0.91444 0.3225,0.13183 0.6855,0.15427 1.0206,0.075 0.2556,-0.0608 0.5018,-0.18583 0.7036,-0.35734 0.1541,-0.1359 0.2901,-0.29377 0.3878,-0.47532 0.1691,-0.30549 0.2381,-0.66792 0.1966,-1.0103 -0.047,-0.42132 -0.2632,-0.82277 -0.5867,-1.09398 -0.2665,-0.22627 -0.6087,-0.36792 -0.9538,-0.39451 -0.062,-0.004 -0.1239,-0.005 -0.1859,-0.004 z"
+         style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:connector-curvature="0"
+         id="path5300-3-6-2"
+         d="m 255.96103,-182.48604 330.82371,0.38439"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:connector-curvature="0"
+         id="path5302-0-2-9"
+         d="m 421.08923,-23.444638 0.5673,-317.698392"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-9-7-9-8"
+         d="m 421.17613,-182.27766 -134.18664,65.45784"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8204)" />
+      <text
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:linespacing="125%"
+         id="text5712-4-6-0-7"
+         y="-119.04955"
+         x="324.94287"
+         style="font-style:normal;font-weight:normal;font-size:18.65577126px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-119.04955"
+           x="324.94287"
+           id="tspan5714-9-3-4-5"
+           sodipodi:role="line">r<tspan
+   id="tspan6404-4-0-3"
+   style="font-size:64.99999762%;baseline-shift:sub">RBC</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6858-4-2-9-7"
+         y="-312.59079"
+         x="596.29791"
+         style="font-style:normal;font-weight:normal;font-size:27.9981823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.72500038px;font-weight:bold"
+           y="-312.59079"
+           x="596.29791"
+           id="tspan6860-9-4-8-0"
+           sodipodi:role="line">Blood Plasma</tspan><tspan
+           id="tspan6953"
+           style="font-size:22.72500038px"
+           y="-284.18454"
+           x="596.29791"
+           sodipodi:role="line">     (liquid)</tspan></text>
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-3-9-8-8"
+         d="m 584.74308,-172.08428 -77.75641,22.7692"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7088)" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-3-9-8-6-6"
+         d="m 580.38612,-317.45402 -29.33648,-0.14491"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6961)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6858-4-2-9-7-4"
+         y="-167.45869"
+         x="596.29791"
+         style="font-style:normal;font-weight:normal;font-size:27.9981823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.72500038px;font-weight:bold"
+           y="-167.45869"
+           x="596.29791"
+           id="tspan6860-9-4-8-0-1"
+           sodipodi:role="line">RBC Cytoplasm </tspan><tspan
+           id="tspan6953-2"
+           style="font-size:22.72500038px"
+           y="-139.05244"
+           x="596.29791"
+           sodipodi:role="line">     (liquid)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6858-4-2-9-7-4-8"
+         y="-240.0248"
+         x="596.29791"
+         style="font-style:normal;font-weight:normal;font-size:27.9981823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.72500038px"
+           y="-240.0248"
+           x="596.29791"
+           id="tspan6860-9-4-8-0-1-0"
+           sodipodi:role="line"><tspan
+             style="font-weight:bold"
+             id="tspan13582">RBC Wall</tspan></tspan><tspan
+           id="tspan6953-2-8"
+           style="font-size:22.72500038px"
+           y="-211.61855"
+           x="596.29791"
+           sodipodi:role="line">     (Solid)</tspan></text>
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-3-9-8-8-8"
+         d="m 582.77784,-247.73679 -31.76908,-0.16844"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7088-7)" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-9-7-9-8-9"
+         d="m 563.56551,-34.343839 -36.20185,-36.56757"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8204-5)" />
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-9-7-9-8-9-8"
+         d="m 502.65441,-97.287856 14.48357,15.859438"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8204-5-0)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6858-4-2-94-7"
+         y="-58.475677"
+         x="577.38312"
+         style="font-style:normal;font-weight:normal;font-size:20.36436653px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6683-0"
+           y="-58.475677"
+           x="577.38312"
+           sodipodi:role="line">Wall thickness </tspan><tspan
+           id="tspan9625"
+           y="-33.020218"
+           x="577.38312"
+           sodipodi:role="line">1:360 to r<tspan
+   id="tspan9627"
+   style="font-size:64.99999762%;baseline-shift:sub">RBC</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text9917-6"
+         y="-337.68936"
+         x="254.95187"
+         style="font-style:normal;font-weight:normal;font-size:25.02499962px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-337.68936"
+           x="254.95187"
+           id="tspan9919-2"
+           sodipodi:role="line">b)</tspan></text>
+    </g>
+    <g
+       transform="translate(-17.142877,461.42857)"
+       id="g9939-1" />
+    <g
+       id="g12718"
+       transform="translate(30.997372,-12.03772)"
+       inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <g
+         id="g9939-6"
+         transform="translate(-606.36253,473.46629)">
+        <rect
+           style="opacity:1;fill:#fffee1;fill-opacity:1;stroke:#000000;stroke-width:4.16602421;stroke-miterlimit:4;stroke-dasharray:4.16602439, 8.33204879;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6856-5-6-3-7-1"
+           width="543.58679"
+           height="364.11401"
+           x="241.06377"
+           y="-372.55194"
+           ry="18.629396"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="opacity:0.98999999;fill:#ffd3d3;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 417.43121,-327.11593 c -19.16159,0.0874 -38.7086,4.95259 -56.13141,12.75259 -22.33573,10.12214 -41.57604,26.46112 -56.49537,45.80066 -15.34518,20.70621 -25.17519,46.04842 -27.65006,71.52777 -2.45129,23.89758 1.23588,48.73156 10.63253,70.88509 14.60569,35.22096 44.21925,64.169441 79.77076,78.33194 27.6278,11.293208 58.72236,13.214885 87.42635,6.426426 21.89904,-5.210307 42.98544,-15.918865 60.27516,-30.610163 13.20391,-11.641449 24.85014,-25.16437 33.21679,-40.716833 14.49002,-26.16894 20.39801,-57.21458 16.84766,-86.54388 -4.06501,-36.09115 -22.54854,-70.47949 -50.26437,-93.71229 -22.82263,-19.38232 -52.14196,-31.51646 -81.69868,-33.79386 -5.30344,-0.30299 -10.61799,-0.38985 -15.92936,-0.34745 z"
+           id="path5283-3-0-3-9"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 421.32703,-183.98437 c -0.2237,0.001 -0.4519,0.0578 -0.6553,0.14888 -0.2607,0.11816 -0.4853,0.3089 -0.6595,0.53467 -0.1791,0.24172 -0.2939,0.53756 -0.3228,0.835 -0.029,0.27898 0.014,0.56889 0.1241,0.8275 0.1705,0.41117 0.5163,0.74911 0.9313,0.91444 0.3225,0.13183 0.6855,0.15427 1.0206,0.075 0.2556,-0.0608 0.5018,-0.18583 0.7036,-0.35734 0.1541,-0.1359 0.2901,-0.29377 0.3878,-0.47532 0.1691,-0.30549 0.2381,-0.66792 0.1966,-1.0103 -0.047,-0.42132 -0.2632,-0.82277 -0.5867,-1.09398 -0.2665,-0.22627 -0.6087,-0.36792 -0.9538,-0.39451 -0.062,-0.004 -0.1239,-0.005 -0.1859,-0.004 z"
+           id="path5283-1-0-0-7-6"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 255.96103,-182.48604 330.82371,0.38439"
+           id="path5300-3-6-2-8"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 421.08923,-23.444649 0.5673,-317.698391"
+           id="path5302-0-2-9-2"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8204-3)"
+           d="m 421.17613,-182.27766 -127.11557,59.902"
+           id="path5304-9-7-9-8-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:18.65577126px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="324.94287"
+           y="-119.04955"
+           id="text5712-4-6-0-7-3"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"><tspan
+             sodipodi:role="line"
+             id="tspan5714-9-3-4-5-1"
+             x="324.94287"
+             y="-119.04955">r<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan6404-4-0-3-0">RBC</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:27.9981823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="586.29791"
+           y="-312.59079"
+           id="text6858-4-2-9-7-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6860-9-4-8-0-6"
+             x="586.29791"
+             y="-312.59079"
+             style="font-weight:bold;font-size:22.72500038px">Blood Plasma</tspan><tspan
+             sodipodi:role="line"
+             x="586.29791"
+             y="-284.18454"
+             style="font-size:22.72500038px"
+             id="tspan6953-29">     (liquid)</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7088-6)"
+           d="m 584.74308,-244.08428 -77.75641,22.7692"
+           id="path5304-3-9-8-8-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6961-7)"
+           d="m 580.38612,-317.45402 -29.33648,-0.14491"
+           id="path5304-3-9-8-6-6-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:27.9981823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="586.29791"
+           y="-237.45869"
+           id="text6858-4-2-9-7-4-81"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6860-9-4-8-0-1-2"
+             x="586.29791"
+             y="-237.45869"
+             style="font-weight:bold;font-size:22.72500038px">RBC Cytoplasm </tspan><tspan
+             sodipodi:role="line"
+             x="586.29791"
+             y="-209.05244"
+             style="font-size:22.72500038px"
+             id="tspan6953-2-5">     (liquid)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:25.02499962px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="254.95187"
+           y="-337.68936"
+           id="text9917-6-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan9919-2-9"
+             x="254.95187"
+             y="-337.68936">a)</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20.36436653px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-29.517303"
+         y="385.40244"
+         id="text6858-4-2-94-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="-29.517303"
+           y="385.40244"
+           id="tspan6491-6">Stability equation</tspan><tspan
+           sodipodi:role="line"
+           x="-29.517303"
+           y="410.85788"
+           id="tspan6489-8">interface due to </tspan><tspan
+           sodipodi:role="line"
+           x="-29.517303"
+           y="436.31335"
+           id="tspan6683-7">surface tension</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11152)"
+         d="M -43.76071,409.4131 -77.0704,387.73559"
+         id="path5304-3-9-8-0-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+    </g>
+    <g
+       id="g12675"
+       transform="translate(-558.22228,392.28571)"
+       inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <rect
+         style="opacity:1;fill:#fffee1;fill-opacity:1;stroke:#000000;stroke-width:4.16602421;stroke-miterlimit:4;stroke-dasharray:4.16602439, 8.33204879;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6856-5-6-3-7-19"
+         width="543.58679"
+         height="364.11401"
+         x="241.06377"
+         y="-372.55194"
+         ry="18.629396"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="translate(-17.142877,461.42857)" />
+      <circle
+         style="opacity:0.98999999;fill:#fe0006;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5273-3-9-3-9"
+         cx="421.36508"
+         cy="-182.38225"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         r="150"
+         transform="translate(-17.142877,461.42857)" />
+      <path
+         style="opacity:0.98999999;fill:#ffd3d3;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 417.53338,-323.164 c -18.62701,0.085 -37.62869,4.81442 -54.56543,12.39681 -21.71259,9.83975 -40.41613,25.72289 -54.91923,44.52289 -14.91707,20.12853 -24.47284,44.76373 -26.87866,69.53224 -2.3829,23.23088 1.2014,47.37202 10.3359,68.9075 14.19821,34.238346 42.98559,62.379206 77.54527,76.146592 26.85702,10.978143 57.08409,12.846208 84.98728,6.247138 21.28808,-5.064947 41.7862,-15.474752 58.59357,-29.756184 12.83554,-11.316669 24.15685,-24.46232 32.29008,-39.580886 14.08577,-25.43887 19.82894,-55.61838 16.37764,-84.12943 -3.9516,-35.08426 -21.91947,-68.51322 -48.86207,-91.09785 -22.18591,-18.84159 -50.68727,-30.6372 -79.4194,-32.85106 -5.15548,-0.29454 -10.32176,-0.37898 -15.48495,-0.33776 z"
+         id="path5283-3-0-3-0"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="translate(-17.142877,461.42857)" />
+      <path
+         style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 421.32703,-183.98437 c -0.2237,0.001 -0.4519,0.0578 -0.6553,0.14888 -0.2607,0.11816 -0.4853,0.3089 -0.6595,0.53467 -0.1791,0.24172 -0.2939,0.53756 -0.3228,0.835 -0.029,0.27898 0.014,0.56889 0.1241,0.8275 0.1705,0.41117 0.5163,0.74911 0.9313,0.91444 0.3225,0.13183 0.6855,0.15427 1.0206,0.075 0.2556,-0.0608 0.5018,-0.18583 0.7036,-0.35734 0.1541,-0.1359 0.2901,-0.29377 0.3878,-0.47532 0.1691,-0.30549 0.2381,-0.66792 0.1966,-1.0103 -0.047,-0.42132 -0.2632,-0.82277 -0.5867,-1.09398 -0.2665,-0.22627 -0.6087,-0.36792 -0.9538,-0.39451 -0.062,-0.004 -0.1239,-0.005 -0.1859,-0.004 z"
+         id="path5283-1-0-0-7-5"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="translate(-17.142877,461.42857)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 255.96103,-182.48604 330.82371,0.38439"
+         id="path5300-3-6-2-0"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="translate(-17.142877,461.42857)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 421.08923,-23.444638 0.5673,-317.698392"
+         id="path5302-0-2-9-4"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="translate(-17.142877,461.42857)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8204-9)"
+         d="m 421.17613,-182.27766 -134.18664,65.45784"
+         id="path5304-9-7-9-8-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="translate(-17.142877,461.42857)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:18.65577126px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="324.94287"
+         y="-119.04955"
+         id="text5712-4-6-0-7-2"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="translate(-17.142877,461.42857)"><tspan
+           sodipodi:role="line"
+           id="tspan5714-9-3-4-5-2"
+           x="324.94287"
+           y="-119.04955">r<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan6404-4-0-3-9">RBC</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:27.08591461px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="573.15503"
+         y="125.98949"
+         id="text6858-4-2-9-7-9"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           x="573.15503"
+           y="125.98949"
+           style="font-weight:bold;font-size:21.98454857px"
+           id="tspan6953-4">Blood Plasma</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7088-0)"
+         d="m 565.17163,214.05858 -82.75641,-0.42715"
+         id="path5304-3-9-8-8-62"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6961-6)"
+         d="m 580.38612,-339.45402 -29.33648,-0.14491"
+         id="path5304-3-9-8-6-6-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="translate(-17.142877,461.42857)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:27.08591461px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="573.15503"
+         y="221.0444"
+         id="text6858-4-2-9-7-4-3"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           x="573.15503"
+           y="221.0444"
+           style="font-weight:bold;font-size:21.98454857px"
+           id="tspan6953-2-4">RBC Cytoplasm </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:27.08591461px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="573.15503"
+         y="174.53944"
+         id="text6858-4-2-9-7-4-8-30"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           x="573.15503"
+           y="174.53944"
+           style="font-weight:bold;font-size:21.98454857px"
+           id="tspan6953-2-8-9">RBC Wall </tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7088-7-5)"
+         d="M 564.20639,166.52247 496.8666,165.84895"
+         id="path5304-3-9-8-8-8-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8204-5-45)"
+         d="m 563.56551,-34.343839 -36.20185,-36.56757"
+         id="path5304-9-7-9-8-9-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="translate(-17.142877,461.42857)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8204-5-0-5)"
+         d="m 502.65441,-97.287856 14.48357,15.859438"
+         id="path5304-9-7-9-8-9-8-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"
+         transform="translate(-17.142877,461.42857)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20.36436653px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="577.38312"
+         y="-48.475677"
+         id="text6858-4-2-94-7-5"
+         sodipodi:linespacing="125%"
+         transform="translate(-17.142877,461.42857)"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           x="577.38312"
+           y="-48.475677"
+           id="tspan6683-0-7">Wall thickness </tspan><tspan
+           sodipodi:role="line"
+           x="577.38312"
+           y="-23.02022"
+           id="tspan9625-8">1:360 to r<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan9627-8">RBC</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.02499962px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="254.95187"
+         y="-337.68936"
+         id="text9917-6-1"
+         sodipodi:linespacing="125%"
+         transform="translate(-17.142877,461.42857)"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan9919-2-6"
+           x="254.95187"
+           y="-337.68936">c)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20.36436653px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="578.10101"
+         y="299.38193"
+         id="text6858-4-2-94-4-2"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           x="578.10101"
+           y="299.38193"
+           id="tspan6683-7-5">Solid deformation</tspan><tspan
+           sodipodi:role="line"
+           x="578.10101"
+           y="324.83737"
+           id="tspan11665">equation with </tspan><tspan
+           sodipodi:role="line"
+           x="578.10101"
+           y="350.29285"
+           id="tspan11667">rupture criteria</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11705)"
+         d="m 569.4932,290.78343 -29.26908,38.93164"
+         id="path5304-3-9-8-0-7-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+    </g>
+    <g
+       id="g15234"
+       transform="translate(571.71429,-391.42858)"
+       inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <g
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         id="g9939-4"
+         transform="translate(-571.4286,852.85715)">
+        <rect
+           style="opacity:1;fill:#fffee1;fill-opacity:1;stroke:#000000;stroke-width:4.16602421;stroke-miterlimit:4;stroke-dasharray:4.16602439, 8.33204879;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6856-5-6-3-7-11"
+           width="543.58679"
+           height="364.11401"
+           x="241.06377"
+           y="-372.55194"
+           ry="18.629396"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <circle
+           style="opacity:0.98999999;fill:#fe0006;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path5273-3-9-3-7"
+           cx="421.36508"
+           cy="-182.38225"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           r="150" />
+        <path
+           style="opacity:0.98999999;fill:#ffd3d3;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 417.53338,-323.164 c -18.62701,0.085 -37.62869,4.81442 -54.56543,12.39681 -21.71259,9.83975 -40.41613,25.72289 -54.91923,44.52289 -14.91707,20.12853 -24.47284,44.76373 -26.87866,69.53224 -2.3829,23.23088 1.2014,47.37202 10.3359,68.9075 14.19821,34.238346 42.98559,62.379206 77.54527,76.146592 26.85702,10.978143 57.08409,12.846208 84.98728,6.247138 21.28808,-5.064947 41.7862,-15.474752 58.59357,-29.756184 12.83554,-11.316669 24.15685,-24.46232 32.29008,-39.580886 14.08577,-25.43887 19.82894,-55.61838 16.37764,-84.12943 -3.9516,-35.08426 -21.91947,-68.51322 -48.86207,-91.09785 -22.18591,-18.84159 -50.68727,-30.6372 -79.4194,-32.85106 -5.15548,-0.29454 -10.32176,-0.37898 -15.48495,-0.33776 z"
+           id="path5283-3-0-3-7"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 421.32703,-183.98437 c -0.2237,0.001 -0.4519,0.0578 -0.6553,0.14888 -0.2607,0.11816 -0.4853,0.3089 -0.6595,0.53467 -0.1791,0.24172 -0.2939,0.53756 -0.3228,0.835 -0.029,0.27898 0.014,0.56889 0.1241,0.8275 0.1705,0.41117 0.5163,0.74911 0.9313,0.91444 0.3225,0.13183 0.6855,0.15427 1.0206,0.075 0.2556,-0.0608 0.5018,-0.18583 0.7036,-0.35734 0.1541,-0.1359 0.2901,-0.29377 0.3878,-0.47532 0.1691,-0.30549 0.2381,-0.66792 0.1966,-1.0103 -0.047,-0.42132 -0.2632,-0.82277 -0.5867,-1.09398 -0.2665,-0.22627 -0.6087,-0.36792 -0.9538,-0.39451 -0.062,-0.004 -0.1239,-0.005 -0.1859,-0.004 z"
+           id="path5283-1-0-0-7-4"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 255.96103,-182.48604 330.82371,0.38439"
+           id="path5300-3-6-2-3"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 421.08923,-23.444638 0.5673,-317.698392"
+           id="path5302-0-2-9-9"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8204-4)"
+           d="m 421.17613,-182.27766 -134.18664,65.45784"
+           id="path5304-9-7-9-8-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:18.65577126px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="324.94287"
+           y="-119.04955"
+           id="text5712-4-6-0-7-1"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"><tspan
+             sodipodi:role="line"
+             id="tspan5714-9-3-4-5-7"
+             x="324.94287"
+             y="-119.04955">r<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan6404-4-0-3-6">RBC</tspan></tspan></text>
+        <text
+           inkscape:export-ydpi="200"
+           inkscape:export-xdpi="200"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:27.9981823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="586.29791"
+           y="-336.59079"
+           id="text6858-4-2-9-7-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="586.29791"
+             y="-336.59079"
+             style="font-weight:bold;font-size:22.72500038px"
+             id="tspan6953-9">Blood Plasma</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7088-8)"
+           d="m 579.02879,-99.22714 -67.04212,-23.65937"
+           id="path5304-3-9-8-8-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6961-1)"
+           d="m 580.38612,-341.45402 -29.33648,-0.14491"
+           id="path5304-3-9-8-6-6-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <text
+           inkscape:export-ydpi="200"
+           inkscape:export-xdpi="200"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:27.9981823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="586.29791"
+           y="-91.458687"
+           id="text6858-4-2-9-7-4-35"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="586.29791"
+             y="-91.458687"
+             style="font-weight:bold;font-size:22.72500038px"
+             id="tspan6953-2-7">RBC Cytoplasm </tspan></text>
+        <text
+           inkscape:export-ydpi="200"
+           inkscape:export-xdpi="200"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:27.9981823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="586.29791"
+           y="-292.02478"
+           id="text6858-4-2-9-7-4-8-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6860-9-4-8-0-1-0-3"
+             x="586.29791"
+             y="-292.02478"
+             style="font-weight:bold;font-size:22.72500038px">RBC Wall:</tspan><tspan
+             id="tspan13558"
+             sodipodi:role="line"
+             x="586.29791"
+             y="-263.61853"
+             style="font-size:22.72500038px">Approximated </tspan><tspan
+             id="tspan13564"
+             sodipodi:role="line"
+             x="586.29791"
+             y="-235.21228"
+             style="font-size:22.72500038px">as a gel (liquid)  </tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7088-7-2)"
+           d="m 578.49213,-299.73679 -71.32348,-0.42098"
+           id="path5304-3-9-8-8-8-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8204-5-1)"
+           d="m 563.56551,-34.343839 -36.20185,-36.56757"
+           id="path5304-9-7-9-8-9-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8204-5-0-7)"
+           d="m 502.65441,-97.287856 14.48357,15.859438"
+           id="path5304-9-7-9-8-9-8-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <text
+           inkscape:export-ydpi="200"
+           inkscape:export-xdpi="200"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:20.36436653px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="577.38312"
+           y="-44.475677"
+           id="text6858-4-2-94-7-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="577.38312"
+             y="-44.475677"
+             id="tspan6683-0-5">Wall thickness </tspan><tspan
+             sodipodi:role="line"
+             x="577.38312"
+             y="-19.02022"
+             id="tspan9625-3">1:360 to r<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan9627-4">RBC</tspan></tspan></text>
+        <text
+           inkscape:export-ydpi="200"
+           inkscape:export-xdpi="200"
+           inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:25.02499962px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="254.95187"
+           y="-337.68936"
+           id="text9917-6-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan9919-2-0"
+             x="254.95187"
+             y="-337.68936">b)</tspan></text>
+      </g>
+      <text
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:linespacing="125%"
+         id="text6858-4-2-94-4-20"
+         y="673.78009"
+         x="-4.8649597"
+         style="font-style:normal;font-weight:normal;font-size:20.36436653px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="translate(30.997372,-12.03772)"><tspan
+           id="tspan6491-6-2"
+           y="673.78009"
+           x="-4.8649597"
+           sodipodi:role="line">Stability equation</tspan><tspan
+           id="tspan6489-8-5"
+           y="699.23553"
+           x="-4.8649597"
+           sodipodi:role="line">interface due to </tspan><tspan
+           id="tspan6683-7-3"
+           y="724.69098"
+           x="-4.8649597"
+           sodipodi:role="line">surface tension</tspan></text>
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="C:\Users\Michelle\Documents\GitHub\WongWork\2. Report\fig\approx.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5304-3-9-8-0-7-6"
+         d="M 15.929608,654.43834 -5.1917187,633.48781"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14708)" />
+    </g>
+  </g>
+</svg>

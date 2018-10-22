@@ -1,0 +1,73 @@
+\section{Stability Equation Source Material} \label{Sect.SE}
+\noindent The primary objective of this research is to formulate a surface stability equation for a \ac{rbc} similar to that described by \citet{Prosperetti1974} and further used by \citet{Zeng2018}. In order to understand this further the work by \citet{Zeng2018}, a detailed review of the equation and simplification is supplied here. 
+
+The amplitude of perturbation equation, often refereed to as a surface stability equation (Equation \ref{eq.der.big}) attempts to describe reaction in motion for the interface between a liquid and a gas. Equation \ref{eq.der.big} is derived from the Navier-Stokes equations and incompressibility conditions. \citet{Zeng2018} in particular looks at the application of a water droplet of radius $R$, in air, with a bubble of air (radius $R_b$) contained within it. 
+
+\begin{equation} \label{eq.der.big}
+\begin{split}
+&\left[ \frac{\rho_1}{n} + \frac{\rho_2}{n+1} \right] \ddot{a} + \left[3 \left( \frac{\rho_1}{n} + \frac{\rho_2}{n+1} \right) \frac{\dot{R}}{R} - 2(n-1)(n+2) \frac{\upmu_2 - \upmu_1}{R^2} \right]\dot{a}  \\ & +\left[ \left(  \frac{n+2}{n}\rho_1 - \frac{n-1}{n+1}\rho_2 \right)\frac{\ddot{R}}{R} + (n-1)(n+2)\frac{\gamma}{R^3} + 2(n-1)(n+2)(\upmu_2 -\upmu_1)\frac{\dot{R}}{R^3}  \right] a  \\& + (n-1)(n+1)\frac{\upmu_1}{R} T_1(R,t) - n(n+2)\frac{\upmu_2}{R} T_2(R,t)  \\ & - (n+1)\rho_1\dot{R}R^{-n-3} \int_0^R (s^3-R^3)s^{n-1}T_1(s,t)ds \\ & + n\rho_2 \dot{R}R^{n-2} \int_{R}^{\infty} (s^3 - R^3)s^{-n-2} T_2(s,t) ds = 0 
+\end{split}
+\end{equation}
+
+\noindent where the subscript `1' and `2' refer to water and air respectively. $\rho$ is the density, $n$ is the order of the spherical harmonic, $\upmu$ is the viscosity and $\gamma$ is the coefficient of surface tension.
+\subsection{Simplification}
+
+\noindent Equation \ref{eq.der.big} is very intricate, according to \citet{Zeng2018} two major simplifications can be made to reduce complexity of the water droplet in air. First, in comparison of the densities and viscosities since $\rho_1 >> \rho_2$ and  $\upmu_1 >> \upmu_2$, $\rho_2$ and $\upmu_2$  can be neglected, leaving simply $\rho = \rho_1$,  $\upmu= \upmu_1$. Furthermore, since $T_2(R,t)$ is related to the viscous effects it is also considerably smaller than $T_1(R,t)$ and as such $T_2(R,t)$ can be neglected leaving $T(r,t) = T_1(R,t)$. Equation \ref{eq.der.big} can be rewritten as Equation \ref{eq.der.big2}.
+
+\begin{equation} \label{eq.der.big2}
+\begin{split}
+& \frac{\rho}{n}  \ddot{a} + \left[3 \frac{\rho}{n} \frac{\dot{R}}{R} + 2(n-1)(n+2) \frac{\upmu}{R^2} \right]\dot{a}  \\ & +\left[ \left(  \frac{n+2}{n}\rho \right)\frac{\ddot{R}}{R} - (n-1)(n+2)\frac{\gamma}{R^3} + 2(n-1)(n+2)( \upmu)\frac{\dot{R}}{R^3}  \right] a  \\& + (n-1)(n+1)\frac{\upmu}{R} T(R,t)   - (n+1)\rho\dot{R}R^{-n-3} \int_0^R (s^3-R^3)s^{n-1}T(s,t)ds  = 0 
+\end{split}
+\end{equation}
+\noindent Second, \citet{Zeng2018} describe how by consideration of initial and boundary conditions $T(R,t)$ and the integral containing $T(R,t)$ can be defined by Equation \ref{eq.der.T} and Equation \ref{eq.der.intT} respectively.
+
+\begin{equation}\label{eq.der.T}
+	T(R,t) \approx \frac{2}{n}\left[(n+1)\dot{a} - (n+2)\frac{\dot{R}}{R} a\right]
+\end{equation} 
+
+\begin{equation}\label{eq.der.intT}
+	\int_0^R \left(1 - \frac{s^3}{R^3}\right)\left(\frac{s}{R}\right)^{n-2} T(s,t)ds \approx \delta \left( 1 - \frac{s^3}{R^3}  \right) \left(\frac{s}{R}\right)^{n-2} T(s,t)\big\rvert_{s=R} = 0
+\end{equation}
+\noindent Thus, by using Equation \ref{eq.der.T} and \ref{eq.der.intT}, Equation \ref{eq.der.big2} can be rewritten as Equation \ref{eq.der.big3}.
+
+\begin{equation} \label{eq.der.big3}
+\begin{split}
+& \frac{\rho}{n}  \ddot{a} + \left[3 \frac{\rho}{n} \frac{\dot{R}}{R} + 2(n-1)(n+2) \frac{\upmu}{R^2} \right]\dot{a}  \\ & +\left[ \left(  \frac{n+2}{n}\rho \right)\frac{\ddot{R}}{R} - (n-1)(n+2)\frac{\gamma}{R^3} + 2(n-1)(n+2)( \upmu)\frac{\dot{R}}{R^3}  \right] a  \\& + (n-1)(n+1)\frac{\upmu}{R} \frac{2}{n}\left[(n+1)\dot{a} - (n+2)\frac{\dot{R}}{R} a\right]   = 0 
+\end{split}
+\end{equation}
+
+\noindent Finally, the Equation \ref{eq.der.big3} can be rewritten cleanly as a second order derivative equation of $a$ for simplicity and solvability (Equation \ref{eq.der.adotdot} to \ref{eq.der.Bn}).
+
+\begin{equation}\label{eq.der.adotdot}
+	\ddot{a} + B_n(t) \dot{a} - A_n(t) a = 0
+\end{equation}
+\noindent where
+\begin{equation}\label{eq.der.An}
+A_n(t) = -(n+2) \frac{\ddot{R}}{R} - (n-1)n(n+2) \frac{\gamma}{\rho R^3} -(n-1) (n+2) \frac{2\upmu \dot{R}}{\rho R^3}
+\end{equation}
+\noindent and
+\begin{equation}\label{eq.der.Bn}
+	B_n(t) = \frac{3\dot{R}}{R} + \frac{2(n-1)(2n+1)\upmu}{\rho R^2}
+\end{equation}
+
+\subsection{Relationship to Internal Bubble} \label{Sect.SE.Bub}
+\noindent To solve the perturbation Equation \ref{eq.der.adotdot} the outer water radius $R(t)$ and subsequent derivatives are needed. First, the total volume of the water must not change due to an incompressible fluid assumption, ie Equation \ref{eq.bub.V} should hold true.
+
+\begin{equation}\label{eq.bub.V}
+R^3 - R_b^3 = R_0^3 - R^3_{b0} 
+\end{equation}
+\noindent Thus, the derivative of this must also be true (Equation \ref{eq.bub.dV}).
+
+\begin{equation}\label{eq.bub.dV}
+R^2\dot{R} - R_b^2\dot{R_b} = 0
+\end{equation}
+\noindent where in Equation \ref{eq.bub.V} and \ref{eq.bub.dV} the subscript `0' denoted the initial radii. The bubble dynamics are obtained circularly from the unsteady non-linear Bernoulli equation defined in \cite{Zeng2018} (Equation \ref{eq.bub.Rb}).
+
+\begin{equation} \label{eq.bub.Rb}
+\ddot{R_b}\left( R_b - \frac{R_b^2}{R} \right) + \dot{R_b}^2 \left( \frac{2}{3} + \frac{4\upmu}{\dot{R_b} R_b \rho} -2\frac{R_b}{R}  + \frac{R_b^4}{2R^4} \right) + \frac{2\gamma}{\rho}\left( R_b^{-1} +R^{-1} \right) = \frac{P_b - P_{\infty}}{\rho}
+\end{equation}
+\noindent where $P_{\infty}$ is the pressure well away from the system and $P_b$ is the pressure of the gas inside the bubble which is found assuming an adiabatic bubble surface relationship (Equation \ref{eq.bub.Pb}).
+\begin{equation} \label{eq.bub.Pb}
+P_b R_b^{3\bm{\upgamma}} = P_{b0}R_{b0}^{3\bm{\upgamma}}
+\end{equation}
+\noindent Finally, where $\bm{\upgamma}$ is the ratio of specific heats.
